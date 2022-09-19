@@ -9,7 +9,7 @@
   }
   /*BANNER*/
   .hero-section {
-    background: url("/bannerimage.png") 50% no-repeat;
+    background: url("bannerimage.png") 50% no-repeat;
     background-color: #0a0a0a;
     background-size: cover;
     height: 60vh;
